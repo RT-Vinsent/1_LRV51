@@ -1,0 +1,16 @@
+{
+    "name": "roman/lrv-hw-1",
+    "description": "Домашнее задание по Composer",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Tashtabanov Roman",
+            "email": "RT.HAGBO@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "psr/log": "^3.0"
+    }
+}
